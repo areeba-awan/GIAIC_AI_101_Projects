@@ -3,11 +3,11 @@ This repository 🌟 features Python projects 🐍 from the GIAIC AI-101 course 
 
 # 📜 The Ultimate Projects List :
 
-1. Mad Libs Game ✨
+# 1. Mad Libs Game ✨
  
    An interactive storytelling game to create a unique and entertaining tale. 🌟📖
    
-   Google Colab Link:
+#   Google Colab Link:
    https://colab.research.google.com/drive/1-VBJ9yKgsYbDi4ONCt30LKBWuflCyoQO?usp=sharing
 
-2. Number Guessing Game (Computer)
+# 2. Number Guessing Game (Computer)
