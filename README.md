@@ -11,3 +11,5 @@ This repository 🌟 features Python projects 🐍 from the GIAIC AI-101 course 
    https://colab.research.google.com/drive/1-VBJ9yKgsYbDi4ONCt30LKBWuflCyoQO?usp=sharing
 
 # 2. Number Guessing Game (Computer)
+  Google Colab Link:
+  https://colab.research.google.com/drive/1OMNAl7cEprwlxyenvWxgMEBtrNyHK9if?usp=sharing
