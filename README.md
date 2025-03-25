@@ -22,4 +22,11 @@ This repository 🌟 features Python projects 🐍 from the GIAIC AI-101 course 
   Google Colab Link: 
 
   https://colab.research.google.com/drive/1Qg3uDQkUXF9qYNgjzXGbtA0LKr0cFvAJ?usp=sharing
+
+# 4. Rock, Paper, Scissors Game
+  A classic Rock, Paper, Scissors game where you compete against the computer.
+
+  Google Colab Link :
+
+  
   
