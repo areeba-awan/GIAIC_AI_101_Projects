@@ -40,5 +40,11 @@ This repository 🌟 features Python projects 🐍 from the GIAIC AI-101 course 
   Google Colab Link :
   https://colab.research.google.com/drive/1a5v1Anw3_FKa36BWvPiiQ_PFmsXDKM2L?usp=sharing
 
+# 7. Password Generator
+  A handy utility designed to create robust and secure passwords effortlessly.
+
+  Google Colab Link :
+  https://colab.research.google.com/drive/1W9qwc3KkleRHA0bYXs5PYfSRuu-_cyI4?usp=sharing
+
   
   
