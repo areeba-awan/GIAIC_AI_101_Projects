@@ -34,5 +34,11 @@ This repository 🌟 features Python projects 🐍 from the GIAIC AI-101 course 
   Google Colab Link :
   https://colab.research.google.com/drive/1RGoJwnTFZYSqauDKH0hBGq6m0r3Nhco2?usp=sharing
 
+# 6. CountDown Timer
+  A versatile and easy-to-use countdown timer that adapts to any time duration.
+
+  Google Colab Link :
+  https://colab.research.google.com/drive/1a5v1Anw3_FKa36BWvPiiQ_PFmsXDKM2L?usp=sharing
+
   
   
