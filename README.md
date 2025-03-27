@@ -28,5 +28,11 @@ This repository 🌟 features Python projects 🐍 from the GIAIC AI-101 course 
   Google Colab Link :
   https://colab.research.google.com/drive/1XgR-Mm61dRVc4EiuggHRAwfqFCnExcgS?usp=sharing
 
+# 5. A Hangman Game 
+  Challenge your vocabulary skills in this thrilling word-guessing game where you uncover the mystery word within a fixed number of tries.
+
+  Google Colab Link :
+  https://colab.research.google.com/drive/1RGoJwnTFZYSqauDKH0hBGq6m0r3Nhco2?usp=sharing
+
   
   
