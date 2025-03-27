@@ -46,5 +46,10 @@ This repository 🌟 features Python projects 🐍 from the GIAIC AI-101 course 
   Google Colab Link :
   https://colab.research.google.com/drive/1W9qwc3KkleRHA0bYXs5PYfSRuu-_cyI4?usp=sharing
 
+# 8. Streamlit BMI Calculator Web App in Just 6 Minutes
+An interactive web application to calculate BMI and deliver tailored health recommendations for a better lifestyle.
+
+Google Colab Link :
+https://colab.research.google.com/drive/18cxBKYhCr5JNQY5BRYO2pGkJQo9xakUc?usp=sharing
   
   
