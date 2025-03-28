@@ -54,5 +54,14 @@ https://colab.research.google.com/drive/18cxBKYhCr5JNQY5BRYO2pGkJQo9xakUc?usp=sh
 
 Streamlit Link :
 https://areeba-awan-bmi-calculator.streamlit.app/
+
+# 9. Build a Streamlit Website in 15 Minutes
+Build a Dynamic Python Website in Just 15 Minutes with Streamlit!
+
+Google Colab Link :
+https://colab.research.google.com/drive/1DC_z1nGuBMM6ywb4eSXE3zNSY980HKy_?usp=sharing
+
+Streamlit Link :
+https://areeba-awan-project-09-my-website-with-python.streamlit.app/
   
   
