@@ -51,5 +51,8 @@ An interactive web application to calculate BMI and deliver tailored health reco
 
 Google Colab Link :
 https://colab.research.google.com/drive/18cxBKYhCr5JNQY5BRYO2pGkJQo9xakUc?usp=sharing
+
+Streamlit Link :
+https://areeba-awan-bmi-calculator.streamlit.app/
   
   
